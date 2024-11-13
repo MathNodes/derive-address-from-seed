@@ -32,7 +32,7 @@ python3 derive_address_from_seed.py
 
 # Credits
 
-[trinitystake]([trinitystake (Trinity Stake) · GitHub](https://github.com/trinitystake))
+[trinitystake (Trinity Stake) · GitHub](https://github.com/trinitystake)
 
 # Donations
 
